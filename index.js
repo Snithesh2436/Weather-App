@@ -46,39 +46,39 @@ search.addEventListener('click', async() => {
 
             switch (WeatherCondition) {
                 case 'Clear':
-                    image.src = 'clear.png';
+                    image.src = 'images/clear.png';
                     break;
 
                 case 'Rain':
-                    image.src = 'rain.png';
+                    image.src = 'images/rain.png';
                     break;
 
                 case 'Snow':
-                    image.src = 'snow.png';
+                    image.src = 'images/snow.png';
                     break;
 
                 case 'Clouds':
-                    image.src = 'cloud.png';
+                    image.src = 'images/cloud.png';
                     break;
 
                 case 'Haze':
-                    image.src = 'mist.png';
+                    image.src = 'images/mist.png';
                     break;
 
                 case 'Mist':
-                    image.src = 'mist2.png';
+                    image.src = 'images/mist2.png';
                     break;
 
                 case 'Smoke':
-                    image.src = 'smoke.png';
+                    image.src = 'images/smoke.png';
                     break;
 
                 case 'Sand':
-                    image.src = 'sand.png';
+                    image.src = 'images/sand.png';
                     break;
 
                 case 'Sand':
-                    image.src = 'dust.png';
+                    image.src = 'images/dust.png';
                     break;
 
                 default:
